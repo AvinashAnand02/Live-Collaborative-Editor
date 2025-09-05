@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Small helpful tweaks */
+.prose { max-width: unset; }
+html, body, #__next { height: 100%; }
